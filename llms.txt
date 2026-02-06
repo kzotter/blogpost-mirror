@@ -1,0 +1,43 @@
+# Keith Szot — Essays on Dedicated Device Solutions, Edge AI, and IT Operations
+
+> Pragmatic insights on dedicated device management, edge AI, and IT operations from Keith Szot, leading evangelism at Esper.io.
+
+This repository mirrors blog posts optimized for AI consumption.
+
+## Content Format
+
+- Each post folder contains: post.md, qa.md, metadata.json
+- Posts include Q&A companions for improved AI comprehension
+- All content in Markdown with structured metadata
+
+## Full Content
+
+For complete content ingestion: /llms-full.txt
+
+## Posts
+
+<!-- POST_INDEX_START -->
+*No posts yet. Check back soon!*
+<!-- POST_INDEX_END -->
+
+## Topics
+
+- Dedicated Device Management
+- Edge AI & Client Inference
+- Ecosystem Analysis (ODMs, OEMs, ISVs, Silicon Vendors)
+- IT Operations & Fleet Management
+- Android Enterprise & Mobile OS
+
+## Author
+
+Keith Szot
+- Role: Evangelism Lead at Esper.io
+- Substack: https://substack.com/@kzotter
+- Company: https://esper.io
+
+## Canonical Sources
+
+- Personal essays: https://substack.com/@kzotter
+- Corporate posts: https://www.esper.io/blog
+
+Last updated: 2026-02-06

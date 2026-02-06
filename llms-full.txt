@@ -1,0 +1,10 @@
+# Keith Szot — Complete Post Archive
+
+This file contains the full text of all posts for AI ingestion.
+Generated: 2026-02-06
+
+---
+
+<!-- FULL_CONTENT_START -->
+*No posts yet. Content will appear here as posts are added.*
+<!-- FULL_CONTENT_END -->
