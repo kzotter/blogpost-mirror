@@ -1,0 +1,40 @@
+{
+  "title": "AI at the Edge: The Real State of Play - OEMs",
+  "subtitle": "Part 2: OEMs, Lifecycles, and the CTO's Actual Problem",
+  "author": "Keith Szot",
+  "date_published": "2026-02-03",
+  "series": "AI at the Edge: The Real State of Play",
+  "series_part": 2,
+  "publication": "Esper Field Notes",
+  "canonical_url": "https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-b31",
+  "slug": "2026-02-03-ai-at-the-edge-real-state-of-play-oems",
+  "language": "en",
+  "summary": "A field guide for CTOs trying to operationalize edge AI in long-lived device fleets. The core decision isn't models; it's inference placement across endpoints, on-prem edge nodes, and cloud—bounded by OEM lifecycles, certification realities, and upgrade economics.",
+  "excerpt": "If you are a CTO with an edge AI mandate and an installed base of devices, your first problem is not AI models, frameworks, or vendors. It's where inference runs and how much of your existing fleet you are willing, or able, to change.",
+  "tags": [
+    "edge AI",
+    "enterprise devices",
+    "OEMs",
+    "device lifecycle",
+    "inference",
+    "on-device AI",
+    "edge compute",
+    "cloud AI",
+    "retail technology",
+    "hospitality technology",
+    "fleet operations"
+  ],
+  "audience": [
+    "CTO",
+    "VP Engineering",
+    "IT Operations",
+    "Enterprise Architects",
+    "Product Leaders"
+  ],
+  "content_type": "article",
+  "estimated_reading_time_minutes": 12,
+  "source": {
+    "type": "substack_post",
+    "provided_via": "user_paste"
+  }
+}

@@ -1,19 +1,9 @@
-# Keith Szot — Complete Post Archive
+<!-- post.md -->
 
-This file contains the full text of all posts for AI ingestion.
-Generated: 2026-02-06
+# AI at the Edge: The Real State of Play - OEMs
+## Part 2: OEMs, Lifecycles, and the CTO's Actual Problem
 
----
-
-<!-- FULL_CONTENT_START -->
-
-## AI at the Edge: The Real State of Play - OEMs
-**Part 2: OEMs, Lifecycles, and the CTO's Actual Problem**
-
-**Date:** 2026-02-03  
-**Series:** AI at the Edge: The Real State of Play (Part 2)  
-**Author:** Keith Szot  
-**Source:** [Substack](https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-b31)
+*Keith Szot — Feb 03, 2026*
 
 If you are a CTO with an edge AI mandate and an installed base of devices, your first problem is not AI models, frameworks, or vendors. It's where inference runs and how much of your existing fleet you are willing, or able, to change.
 
@@ -27,7 +17,7 @@ We look at OEMs through a deliberately narrow lens: how their current platforms,
 
 None of the tradeoffs described here reflect lack of OEM ambition, they reflect the responsibility of serving vertical market customers.
 
-### The Edge AI Questions CTOs Are Asking
+## The Edge AI Questions CTOs Are Asking
 
 When organizations say "we need to do edge AI," what they usually mean is one of four things:
 
@@ -41,7 +31,7 @@ Or should we centralize inference in the cloud and accept the tradeoffs?
 
 OEMs matter because they largely determine the cost, timing, and risk of every answer.
 
-### Decide Where Inference Runs
+## Decide Where Inference Runs
 
 There are three anchor locations for inference at scale.
 
@@ -55,7 +45,7 @@ A practical deployment strategy is to go hybrid. Time-critical or privacy-sensit
 
 OEM constraints strongly influence how cleanly that routing can be implemented.
 
-### Enterprise Device OEMs: The Installed Base Reality
+## Enterprise Device OEMs: The Installed Base Reality
 
 Zebra (including Elo), Honeywell, Datalogic, Getac, MicroTouch, Toshiba Global Commerce Solutions
 
@@ -75,9 +65,9 @@ Toshiba's retail platforms, carrying forward the lineage of IBM's store systems,
 
 Across this category, the pattern is consistent: AI capability is arriving, but it is shaped by the realities of long-lived fleets.
 
-### The Low-Risk On-Ramps to Edge AI
+## The Low-Risk On-Ramps to Edge AI
 
-#### Kiosks and Drive-Through
+### Kiosks and Drive-Through  
 GRUBBR, Frank Mayer, Olea, Posiflex, Acrelec
 
 Kiosks and drive-through systems are not the most glamorous edge AI endpoints, but they are among the most forgiving. They are fixed in place, power-rich, thermally stable, and modular by design.
@@ -86,7 +76,7 @@ This modularity is the quiet reason so much edge AI experimentation shows up her
 
 AI adoption in kiosks is often driven less by the use case than by the ease of implementation. The same dynamic applies to drive-through systems, where cameras, microphones, and local compute can be combined with relatively low risk.
 
-#### Kitchen Display Systems and Back-of-House Operations
+### Kitchen Display Systems and Back-of-House Operations  
 KitchenArmor, Epson
 
 The highest economic impact of AI in hospitality doesn't have to appear in the customer experience. It can be behind the scenes.
@@ -97,7 +87,7 @@ Notably, most KDS platforms today do not ship with native, general-purpose AI ac
 
 In practice, the intelligence does not live in the display, it integrates with it. Most successful deployments rely on remote inference (CPU-based, edge-node-based, or cloud-driven) to serve KDS platforms reliably without compromising uptime or predictability. PerfectCo is one example of an ISV delivering AI-like capabilities using existing hardware designs.
 
-#### Digital Signage and Ambient Intelligence
+### Digital Signage and Ambient Intelligence  
 Instore Screens and Advanced Signage Platforms
 
 Digital signage has quietly become one of the most AI-active edge categories. Audience analytics, dwell measurement, and content adaptation are inherently local problems. Latency and privacy matter.
@@ -106,7 +96,7 @@ Vendors like Instore Screens (available through Lenovo) are shipping compact sig
 
 In many ways, signage shows the end state other edge categories are still moving toward: intelligence placed close to the interaction surface, compute treated as modular infrastructure, and endpoints kept simple enough to survive long lifecycles.
 
-### Platformized Retail Systems: Stability Over Silicon
+## Platformized Retail Systems: Stability Over Silicon
 
 Toast, Square, Clover
 
@@ -116,7 +106,7 @@ Thus their velocity comes from product decisions, not device churn. Intelligence
 
 This is not a limitation, it's a design choice. For many operators, AI arriving as a service rather than as a hardware capability is the correct trade.
 
-### Enterprise Vertical Infrastructure: Trust and Time
+## Enterprise Vertical Infrastructure: Trust and Time
 
 Global Payments (Xenial), NCR Voyix, PAR, Diebold Nixdorf, Oracle MICROS
 
@@ -128,9 +118,9 @@ AI adoption here is deliberate by necessity. These vendors tend to introduce int
 
 When AI arrives in this layer, it tends to be durable rather than flashy. CTOs should expect progress on timelines that respect trust, compliance, and operational risk and platforms that are designed to support AI as a long-lived capability, not a transient feature.
 
-### Edge Compute as a Pressure Valve
+## Edge Compute as a Pressure Valve
 
-#### HP and Lenovo: Two Paths to Enterprise Edge AI
+### HP and Lenovo: Two Paths to Enterprise Edge AI
 
 HP and Lenovo both make visible a pattern many enterprises are converging on but they arrive there from different starting points.
 
@@ -144,7 +134,7 @@ In practice, this means HP often concentrates intelligence adjacent to endpoints
 
 Both approaches converge on the same operational truth: distributing GPUs across thousands of endpoints rarely scales. Architecturally, x86 expandability is powerful. Operationally, enterprises prefer concentrating complexity where compute can be cooled, serviced, upgraded, and governed without destabilizing the fleet.
 
-### Payment Terminals: Compliance Defines the Boundary
+## Payment Terminals: Compliance Defines the Boundary
 
 Verifone, PAX, Ingenico, Castles, BBPOS
 
@@ -156,7 +146,7 @@ As a result, intelligence around payments increasingly lives outside the termina
 
 CTOs should assume payment terminals will primarily consume AI services rather than host them, a shift that is already reshaping how value and responsibility are distributed across the payments ecosystem.
 
-### Emerging Android-First OEMs: Speed With Responsibility
+## Emerging Android-First OEMs: Speed With Responsibility
 
 iMin, Bluebird, SUNMI, Newland, Chainway, Urovo
 
@@ -168,7 +158,7 @@ Others in the category optimize for speed and scale, moving quickly to new silic
 
 These platforms excel at pilots, innovation-forward deployments, and localized rollouts. Scaling them into long-lived, globally managed fleets is possible but it requires discipline and strong fleet controls.
 
-### CPU-Only Inference: How to Know If You Already Have Enough
+## CPU-Only Inference: How to Know If You Already Have Enough
 
 A surprising amount of useful edge AI does not require NPUs or GPUs.
 
@@ -182,7 +172,7 @@ Teams evaluating CPU-only inference should focus less on theoretical peak perfor
 
 CPU inference is not a fallback. It is often how AI ships on enterprise timelines quietly, incrementally, and without forcing premature hardware decisions.
 
-### Refresh, Pattern, and the Shape of a Sustainable Strategy
+## Refresh, Pattern, and the Shape of a Sustainable Strategy
 
 Hardware refresh is not the enemy of edge AI. It is often the enabler.
 
@@ -194,7 +184,7 @@ Phased refresh, targeted upgrades, and aligning new hardware with inference plac
 
 When inference can be discovered, routed, and upgraded independently of endpoints, AI becomes something enterprises can actually operate and not a one-time upgrade, but an evolving capability that survives hardware cycles.
 
-### What This Means Going Forward
+## What This Means Going Forward
 
 OEMs are not blocking AI at the edge. They are shaping it under real constraints.
 
@@ -208,7 +198,7 @@ Throughout this post, OEMs were discussed only in terms of how their platforms e
 
 The next layer down, the silicon vendors, is where these dynamics originate. That's where we turn next!
 
-### A Note on Timing
+## A Note on Timing
 
 One last thought, and it's less about technology than timing.
 
@@ -221,6 +211,3 @@ At Esper, we spend a lot of time in that early window, often before there's an R
 If this post surfaced questions about your current fleet, your next refresh, or how AI fits into decisions you haven't made yet, I'm always happy to talk. These conversations are most useful early before decisions harden and options narrow.
 
 You can reach me directly, or connect with us at Esper. Either way, the earlier the conversation starts, the more room there is to get it right.
-
----
-<!-- FULL_CONTENT_END -->

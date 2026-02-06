@@ -5,7 +5,9 @@ A complete index of all mirrored posts.
 ## By Date (Newest First)
 
 <!-- DATE_INDEX_START -->
-*No posts yet.*
+| Date | Title | Series | Source |
+|------|-------|--------|--------|
+| 2026-02-03 | [AI at the Edge: The Real State of Play - OEMs](../posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems/post.md) | AI at the Edge (Part 2) | [Substack](https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-b31) |
 <!-- DATE_INDEX_END -->
 
 ## By Topic
@@ -17,7 +19,7 @@ A complete index of all mirrored posts.
 
 ### Edge AI
 <!-- TOPIC_EDGE_AI_START -->
-*No posts yet.*
+- [AI at the Edge: The Real State of Play - OEMs](../posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems/post.md) (2026-02-03) — Part 2: OEMs, Lifecycles, and the CTO's Actual Problem
 <!-- TOPIC_EDGE_AI_END -->
 
 ### Ecosystem Analysis
@@ -34,7 +36,7 @@ A complete index of all mirrored posts.
 
 ### Substack (Personal)
 <!-- SOURCE_SUBSTACK_START -->
-*No posts yet.*
+- [AI at the Edge: The Real State of Play - OEMs](../posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems/post.md) (2026-02-03)
 <!-- SOURCE_SUBSTACK_END -->
 
 ### Esper Blog (Corporate)

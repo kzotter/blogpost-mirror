@@ -19,5 +19,11 @@
     <priority>0.9</priority>
   </url>
   <!-- POST_URLS_START -->
+  <url>
+    <loc>https://github.com/kzotter/blogpost-mirror/tree/main/posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems</loc>
+    <lastmod>2026-02-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- POST_URLS_END -->
 </urlset>
