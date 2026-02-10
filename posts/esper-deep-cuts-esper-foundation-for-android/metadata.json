@@ -1,0 +1,38 @@
+{
+  "slug": "esper-deep-cuts-esper-foundation-for-android",
+  "title": "Esper Deep Cuts: Esper Foundation for Android",
+  "author": "Keith Szot",
+  "date": "2025-04-23",
+  "canonicalUrl": "https://www.esper.io/blog/esper-deep-cuts-esper-foundation-for-android",
+  "description": "An in-depth look at Esper Foundation for Android: enterprise-grade AOSP for dedicated fleets, including OTA infrastructure, Seamless Provisioning, SDK capabilities, and hardware branches spanning x86, GSI for Arm, Amlogic/Khadas, and bespoke OEM builds.",
+  "tags": [
+    "Esper Foundation",
+    "AOSP",
+    "Android",
+    "Dedicated Devices",
+    "Device Management",
+    "OTA Updates",
+    "Seamless Provisioning",
+    "Kiosk",
+    "x86",
+    "GSI",
+    "Project Treble"
+  ],
+  "categories": [
+    "Android",
+    "Device Management",
+    "Operating Systems"
+  ],
+  "series": "Esper Deep Cuts",
+  "primaryKeyword": "Esper Foundation for Android",
+  "estimatedReadingTimeMinutes": 14,
+  "contentType": "blog",
+  "audience": [
+    "CTO",
+    "VP Engineering",
+    "IT Operations",
+    "OEM/ODM"
+  ],
+  "featured": false,
+  "draft": false
+}
