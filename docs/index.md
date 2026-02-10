@@ -7,6 +7,7 @@ A complete index of all mirrored posts.
 <!-- DATE_INDEX_START -->
 | Date | Title | Series | Source |
 |------|-------|--------|--------|
+| 2026-02-09 | [Android OTA at the Edge – OEM Edition](../posts/android-ota-at-the-edge-oem-edition/post.md) | Esper Field Notes | Substack |
 | 2026-02-03 | [AI at the Edge: The Real State of Play - OEMs](../posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems/post.md) | AI at the Edge (Part 2) | [Substack](https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-b31) |
 <!-- DATE_INDEX_END -->
 
@@ -29,13 +30,14 @@ A complete index of all mirrored posts.
 
 ### IT Operations
 <!-- TOPIC_IT_OPS_START -->
-*No posts yet.*
+- [Android OTA at the Edge – OEM Edition](../posts/android-ota-at-the-edge-oem-edition/post.md) (2026-02-09) — What Changes When Android Devices Become Infrastructure
 <!-- TOPIC_IT_OPS_END -->
 
 ## By Source
 
 ### Substack (Personal)
 <!-- SOURCE_SUBSTACK_START -->
+- [Android OTA at the Edge – OEM Edition](../posts/android-ota-at-the-edge-oem-edition/post.md) (2026-02-09)
 - [AI at the Edge: The Real State of Play - OEMs](../posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems/post.md) (2026-02-03)
 <!-- SOURCE_SUBSTACK_END -->
 

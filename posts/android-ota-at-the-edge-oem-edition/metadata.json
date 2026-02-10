@@ -1,0 +1,24 @@
+{
+  "title": "Android OTA at the Edge – OEM Edition",
+  "subtitle": "What Changes When Android Devices Become Infrastructure",
+  "author": "Keith Szot",
+  "date": "2026-02-09",
+  "slug": "2026-02-09-android-ota-at-the-edge-oem-edition",
+  "series": "Esper Field Notes",
+  "tags": [
+    "Android",
+    "OTA",
+    "OEM",
+    "AOSP",
+    "GMS",
+    "Vertical Markets",
+    "Device Lifecycle",
+    "Esper Foundation"
+  ],
+  "audience": [
+    "OEM Leadership",
+    "OEM Engineering",
+    "CTO"
+  ],
+  "summary": "An OEM-focused deep dive into Android OTA as infrastructure, covering factory image decisions, update authority, GMS versus AOSP tradeoffs, and why lifecycle control has become a competitive moat in vertical markets."
+}
