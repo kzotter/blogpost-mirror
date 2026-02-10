@@ -1,0 +1,39 @@
+{
+  "title": "Android OTA at the Edge – CTO Edition",
+  "subtitle": "A CTO's Guide to Updates as Infrastructure",
+  "author": "Keith Szot",
+  "date": "2026-02-09",
+  "slug": "android-ota-at-the-edge-cto-edition",
+  "series": "Esper Field Notes",
+  "edition": "CTO",
+  "tags": [
+    "Android",
+    "OTA",
+    "CTO",
+    "Infrastructure",
+    "Device Lifecycle",
+    "AOSP",
+    "GMS",
+    "OS Governance",
+    "MDM",
+    "Esper Foundation"
+  ],
+  "audience": [
+    "CTO",
+    "Chief Architect",
+    "Engineering Leadership",
+    "IT Operations Leadership"
+  ],
+  "summary": "A CTO-level exploration of Android OTA as infrastructure, focused on authority, irreversibility, update governance, and the questions leaders must ask when Android devices become operational systems.",
+  "related_posts": [
+    {
+      "title": "Android OTA at the Edge – OEM Edition",
+      "relation": "companion",
+      "slug": "android-ota-at-the-edge-oem-edition"
+    }
+  ],
+  "source": {
+    "platform": "Substack",
+    "url": "https://keithszot.substack.com/p/android-ota-at-the-edge-cto-edition"
+  }
+}
