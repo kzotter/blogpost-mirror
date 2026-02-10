@@ -10,13 +10,14 @@ A complete index of all mirrored posts.
 | 2026-02-09 | [Android OTA at the Edge – CTO Edition](../posts/android-ota-at-the-edge-cto-edition/post.md) | Esper Field Notes | [Substack](https://keithszot.substack.com/p/android-ota-at-the-edge-cto-edition) |
 | 2026-02-09 | [Android OTA at the Edge – OEM Edition](../posts/android-ota-at-the-edge-oem-edition/post.md) | Esper Field Notes | Substack |
 | 2026-02-03 | [AI at the Edge: The Real State of Play - OEMs](../posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems/post.md) | AI at the Edge (Part 2) | [Substack](https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-b31) |
+| 2025-04-23 | [Esper Deep Cuts: Esper Foundation for Android](../posts/esper-deep-cuts-esper-foundation-for-android/post.md) | Esper Deep Cuts | [Esper Blog](https://www.esper.io/blog/esper-deep-cuts-esper-foundation-for-android) |
 <!-- DATE_INDEX_END -->
 
 ## By Topic
 
 ### Dedicated Device Management
 <!-- TOPIC_DDM_START -->
-*No posts yet.*
+- [Esper Deep Cuts: Esper Foundation for Android](../posts/esper-deep-cuts-esper-foundation-for-android/post.md) (2025-04-23) — Enterprise-grade AOSP for dedicated device fleets: OTA infrastructure, Seamless Provisioning, SDK capabilities, and hardware branches (x86, GSI, Amlogic, Bespoke)
 <!-- TOPIC_DDM_END -->
 
 ### Edge AI
@@ -46,5 +47,5 @@ A complete index of all mirrored posts.
 
 ### Esper Blog (Corporate)
 <!-- SOURCE_ESPER_START -->
-*No posts yet.*
+- [Esper Deep Cuts: Esper Foundation for Android](../posts/esper-deep-cuts-esper-foundation-for-android/post.md) (2025-04-23) — Enterprise-grade AOSP for dedicated device fleets
 <!-- SOURCE_ESPER_END -->
