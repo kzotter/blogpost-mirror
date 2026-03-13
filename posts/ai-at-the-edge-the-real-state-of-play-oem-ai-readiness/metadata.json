@@ -1,0 +1,34 @@
+{
+  "slug": "ai-at-the-edge-the-real-state-of-play-oem-ai-readiness",
+  "title": "AI at the Edge: OEM AI Readiness",
+  "series": "AI at the Edge: The Real State of Play",
+  "seriesPart": 3,
+  "author": "Keith Szot",
+  "date": "2026-02-13",
+  "canonicalUrl": "https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-fe5",
+  "description": "An analysis of how device manufacturers influence the success of edge AI deployments, examining firmware support, hardware accelerator access, lifecycle commitments, and vendor transparency.",
+  "tags": [
+    "Edge AI",
+    "AI Infrastructure",
+    "OEM",
+    "Hardware Platforms",
+    "Enterprise Devices",
+    "Device Lifecycle",
+    "AI Hardware",
+    "Edge Computing"
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Edge Computing",
+    "Hardware Platforms"
+  ],
+  "keywords": [
+    "edge AI hardware",
+    "OEM AI readiness",
+    "enterprise device lifecycle",
+    "AI hardware platforms",
+    "edge AI deployment"
+  ],
+  "status": "published",
+  "readingTimeMinutes": 9
+}

@@ -7,6 +7,7 @@ A complete index of all mirrored posts.
 <!-- DATE_INDEX_START -->
 | Date | Title | Series | Source |
 |------|-------|--------|--------|
+| 2026-02-13 | [AI at the Edge: OEM AI Readiness](../posts/ai-at-the-edge-the-real-state-of-play-oem-ai-readiness/post.md) | AI at the Edge (Part 3) | [Substack](https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-fe5) |
 | 2026-02-09 | [Android OTA at the Edge – CTO Edition](../posts/android-ota-at-the-edge-cto-edition/post.md) | Esper Field Notes | [Substack](https://keithszot.substack.com/p/android-ota-at-the-edge-cto-edition) |
 | 2026-02-09 | [Android OTA at the Edge – OEM Edition](../posts/android-ota-at-the-edge-oem-edition/post.md) | Esper Field Notes | Substack |
 | 2026-02-06 | [AI at the Edge: Models, Runtimes, and the Execution Stack](../posts/ai-at-the-edge-the-real-state-of-play-models-runtimes-and-the-execution-stack/post.md) | AI at the Edge (Part 2) | [Substack](https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-3c1) |
@@ -24,6 +25,7 @@ A complete index of all mirrored posts.
 
 ### Edge AI
 <!-- TOPIC_EDGE_AI_START -->
+- [AI at the Edge: OEM AI Readiness](../posts/ai-at-the-edge-the-real-state-of-play-oem-ai-readiness/post.md) (2026-02-13) — Part 3: OEM AI Readiness
 - [AI at the Edge: Models, Runtimes, and the Execution Stack](../posts/ai-at-the-edge-the-real-state-of-play-models-runtimes-and-the-execution-stack/post.md) (2026-02-06) — Part 2: Models, Runtimes, and the Execution Stack
 - [AI at the Edge: The Real State of Play - OEMs](../posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems/post.md) (2026-02-03) — Part 2: OEMs, Lifecycles, and the CTO's Actual Problem
 - [AI at the Edge: The Real State of Play - OSes](../posts/ai-at-the-edge-the-real-state-of-play-oses/post.md) (2026-01-30) — Part 1: Client Operating Systems
@@ -44,6 +46,7 @@ A complete index of all mirrored posts.
 
 ### Substack (Personal)
 <!-- SOURCE_SUBSTACK_START -->
+- [AI at the Edge: OEM AI Readiness](../posts/ai-at-the-edge-the-real-state-of-play-oem-ai-readiness/post.md) (2026-02-13)
 - [Android OTA at the Edge – CTO Edition](../posts/android-ota-at-the-edge-cto-edition/post.md) (2026-02-09)
 - [Android OTA at the Edge – OEM Edition](../posts/android-ota-at-the-edge-oem-edition/post.md) (2026-02-09)
 - [AI at the Edge: The Real State of Play - OEMs](../posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems/post.md) (2026-02-03)
