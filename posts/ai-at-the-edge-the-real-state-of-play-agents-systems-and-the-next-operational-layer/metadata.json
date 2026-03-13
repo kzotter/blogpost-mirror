@@ -1,0 +1,44 @@
+{
+  "slug": "ai-at-the-edge-the-real-state-of-play-agents-systems-and-the-next-operational-layer",
+  "title": "AI at the Edge: The Real State of Play - Agents, Systems, and the Next Operational Layer",
+  "subtitle": "From Inference to Action",
+  "series": "AI at the Edge: The Real State of Play",
+  "seriesPart": 5,
+  "author": "Keith Szot",
+  "date": "2026-03-10",
+  "canonicalUrl": "https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-89f",
+  "description": "A deep look at operational AI agents at the edge, covering control loops, loop placement across edge and cloud, orchestration frameworks, MCP and A2A connectivity, observability, governance, and real-world deployment patterns across retail, logistics, hospitality, kitchens, and clinical environments.",
+  "tags": [
+    "Edge AI",
+    "AI Agents",
+    "Operational Systems",
+    "Agent Architecture",
+    "MCP",
+    "A2A",
+    "LangGraph",
+    "CrewAI",
+    "Microsoft Agent Framework",
+    "ServiceNow",
+    "Observability",
+    "Workflow Orchestration"
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Edge Computing",
+    "Systems Architecture",
+    "Agentic AI"
+  ],
+  "keywords": [
+    "edge AI agents",
+    "agent architecture",
+    "operational AI loops",
+    "MCP protocol",
+    "A2A protocol",
+    "LangGraph vs CrewAI",
+    "agents at the edge",
+    "AI observability",
+    "workflow orchestration for agents"
+  ],
+  "status": "published",
+  "readingTimeMinutes": 19
+}

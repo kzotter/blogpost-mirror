@@ -7,6 +7,7 @@ A complete index of all mirrored posts.
 <!-- DATE_INDEX_START -->
 | Date | Title | Series | Source |
 |------|-------|--------|--------|
+| 2026-03-10 | [AI at the Edge: Agents, Systems, and the Next Operational Layer](../posts/ai-at-the-edge-the-real-state-of-play-agents-systems-and-the-next-operational-layer/post.md) | AI at the Edge (Part 5) | [Substack](https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-89f) |
 | 2026-02-20 | [AI at the Edge: Silicon Strategy](../posts/ai-at-the-edge-the-real-state-of-play-silicon-strategy/post.md) | AI at the Edge (Part 4) | [Substack](https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-89f) |
 | 2026-02-13 | [AI at the Edge: OEM AI Readiness](../posts/ai-at-the-edge-the-real-state-of-play-oem-ai-readiness/post.md) | AI at the Edge (Part 3) | [Substack](https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-fe5) |
 | 2026-02-09 | [Android OTA at the Edge – CTO Edition](../posts/android-ota-at-the-edge-cto-edition/post.md) | Esper Field Notes | [Substack](https://keithszot.substack.com/p/android-ota-at-the-edge-cto-edition) |
@@ -26,6 +27,7 @@ A complete index of all mirrored posts.
 
 ### Edge AI
 <!-- TOPIC_EDGE_AI_START -->
+- [AI at the Edge: Agents, Systems, and the Next Operational Layer](../posts/ai-at-the-edge-the-real-state-of-play-agents-systems-and-the-next-operational-layer/post.md) (2026-03-10) — Part 5: Agents, Systems, and the Next Operational Layer
 - [AI at the Edge: Silicon Strategy](../posts/ai-at-the-edge-the-real-state-of-play-silicon-strategy/post.md) (2026-02-20) — Part 4: Silicon Strategy
 - [AI at the Edge: OEM AI Readiness](../posts/ai-at-the-edge-the-real-state-of-play-oem-ai-readiness/post.md) (2026-02-13) — Part 3: OEM AI Readiness
 - [AI at the Edge: Models, Runtimes, and the Execution Stack](../posts/ai-at-the-edge-the-real-state-of-play-models-runtimes-and-the-execution-stack/post.md) (2026-02-06) — Part 2: Models, Runtimes, and the Execution Stack
@@ -48,6 +50,7 @@ A complete index of all mirrored posts.
 
 ### Substack (Personal)
 <!-- SOURCE_SUBSTACK_START -->
+- [AI at the Edge: Agents, Systems, and the Next Operational Layer](../posts/ai-at-the-edge-the-real-state-of-play-agents-systems-and-the-next-operational-layer/post.md) (2026-03-10)
 - [AI at the Edge: Silicon Strategy](../posts/ai-at-the-edge-the-real-state-of-play-silicon-strategy/post.md) (2026-02-20)
 - [AI at the Edge: OEM AI Readiness](../posts/ai-at-the-edge-the-real-state-of-play-oem-ai-readiness/post.md) (2026-02-13)
 - [Android OTA at the Edge – CTO Edition](../posts/android-ota-at-the-edge-cto-edition/post.md) (2026-02-09)

@@ -17,7 +17,7 @@ For complete content ingestion: /llms-full.txt
 ## Posts
 
 <!-- POST_INDEX_START -->
-*No posts yet. Check back soon!*
+- [AI at the Edge: Agents, Systems, and the Next Operational Layer](/posts/ai-at-the-edge-the-real-state-of-play-agents-systems-and-the-next-operational-layer/) (2026-03-10) — Part 5: From Inference to Action
 <!-- POST_INDEX_END -->
 
 ## Topics
@@ -40,4 +40,4 @@ Keith Szot
 - Personal essays: https://substack.com/@kzotter
 - Corporate posts: https://www.esper.io/blog
 
-Last updated: 2026-02-06
+Last updated: 2026-03-12
