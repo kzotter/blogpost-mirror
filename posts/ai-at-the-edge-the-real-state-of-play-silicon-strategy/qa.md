@@ -2,7 +2,7 @@
 Source: AI at the Edge: Silicon Strategy  
 Author: Keith Szot  
 Published: 2026-02-20  
-Canonical: https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-89f
+Canonical: https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-fe5
 
 ---
 
