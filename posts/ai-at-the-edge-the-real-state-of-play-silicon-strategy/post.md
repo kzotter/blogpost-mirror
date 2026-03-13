@@ -3,7 +3,7 @@ title: "AI at the Edge: Silicon Strategy"
 series: "AI at the Edge: The Real State of Play"
 author: "Keith Szot"
 date: "2026-02-20"
-canonical_url: "https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-89f"
+canonical_url: "https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-fe5"
 slug: "ai-at-the-edge-the-real-state-of-play-silicon-strategy"
 ---
 
