@@ -20,6 +20,12 @@
   </url>
   <!-- POST_URLS_START -->
   <url>
+    <loc>https://github.com/kzotter/blogpost-mirror/tree/main/posts/ai-at-the-edge-the-real-state-of-play-models-runtimes-and-the-execution-stack</loc>
+    <lastmod>2026-02-06</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://github.com/kzotter/blogpost-mirror/tree/main/posts/ai-at-the-edge-the-real-state-of-play-oses</loc>
     <lastmod>2026-01-30</lastmod>
     <changefreq>never</changefreq>

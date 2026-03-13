@@ -1,0 +1,36 @@
+{
+  "slug": "ai-at-the-edge-the-real-state-of-play-models-runtimes-and-the-execution-stack",
+  "title": "AI at the Edge: Models, Runtimes, and the Execution Stack",
+  "series": "AI at the Edge: The Real State of Play",
+  "seriesPart": 2,
+  "author": "Keith Szot",
+  "date": "2026-02-06",
+  "canonicalUrl": "https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-3c1",
+  "description": "An analysis of the edge AI execution stack, exploring how models, inference runtimes, and hardware acceleration interact to determine real-world performance in edge deployments.",
+  "tags": [
+    "Edge AI",
+    "AI Infrastructure",
+    "ONNX Runtime",
+    "TensorFlow Lite",
+    "LiteRT",
+    "ExecuTorch",
+    "Machine Learning Deployment",
+    "Inference",
+    "AI Runtimes"
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Edge Computing",
+    "Systems Architecture"
+  ],
+  "keywords": [
+    "edge AI runtimes",
+    "machine learning inference",
+    "ONNX runtime edge",
+    "TensorFlow Lite runtime",
+    "AI execution stack",
+    "edge AI architecture"
+  ],
+  "status": "published",
+  "readingTimeMinutes": 10
+}
