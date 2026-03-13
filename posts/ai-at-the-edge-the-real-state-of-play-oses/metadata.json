@@ -1,0 +1,49 @@
+{
+  "slug": "ai-at-the-edge-the-real-state-of-play-oses",
+  "title": "AI at the Edge: The Real State of Play - OSes",
+  "subtitle": "Part 1: Client Operating Systems",
+  "author": "Keith Szot",
+  "date": "2026-01-30",
+  "canonicalUrl": "https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of",
+  "sourcePlatform": "Substack",
+  "seriesTitle": "AI at the Edge: The Real State of Play",
+  "seriesPart": 1,
+  "description": "A grounded analysis of client operating systems for edge AI, comparing GMS Android, AOSP, Linux, Jetson, Apple platforms, ChromeOS, Windows, and specialized OS environments through the lens of control, deployment, and long-term operational reality.",
+  "tags": [
+    "AI at the Edge",
+    "Edge AI",
+    "Client Operating Systems",
+    "Android",
+    "GMS",
+    "AOSP",
+    "Linux",
+    "Jetson",
+    "iOS",
+    "iPadOS",
+    "ChromeOS",
+    "Windows",
+    "ONNX Runtime",
+    "LiteRT",
+    "Esper Foundation for Android"
+  ],
+  "categories": [
+    "AI",
+    "Edge Computing",
+    "Operating Systems",
+    "Enterprise Technology"
+  ],
+  "keywords": [
+    "AI at the Edge",
+    "edge AI operating systems",
+    "AOSP edge AI",
+    "Android GMS AI",
+    "Linux edge AI",
+    "Jetson AI",
+    "Windows edge inference",
+    "ChromeOS AI",
+    "iOS on-device AI"
+  ],
+  "status": "published",
+  "featured": false,
+  "readingTimeMinutes": 12
+}

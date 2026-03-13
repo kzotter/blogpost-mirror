@@ -10,6 +10,7 @@ A complete index of all mirrored posts.
 | 2026-02-09 | [Android OTA at the Edge – CTO Edition](../posts/android-ota-at-the-edge-cto-edition/post.md) | Esper Field Notes | [Substack](https://keithszot.substack.com/p/android-ota-at-the-edge-cto-edition) |
 | 2026-02-09 | [Android OTA at the Edge – OEM Edition](../posts/android-ota-at-the-edge-oem-edition/post.md) | Esper Field Notes | Substack |
 | 2026-02-03 | [AI at the Edge: The Real State of Play - OEMs](../posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems/post.md) | AI at the Edge (Part 2) | [Substack](https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-b31) |
+| 2026-01-30 | [AI at the Edge: The Real State of Play - OSes](../posts/ai-at-the-edge-the-real-state-of-play-oses/post.md) | AI at the Edge (Part 1) | [Substack](https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of) |
 | 2025-04-23 | [Esper Deep Cuts: Esper Foundation for Android](../posts/esper-deep-cuts-esper-foundation-for-android/post.md) | Esper Deep Cuts | [Esper Blog](https://www.esper.io/blog/esper-deep-cuts-esper-foundation-for-android) |
 <!-- DATE_INDEX_END -->
 
@@ -23,6 +24,7 @@ A complete index of all mirrored posts.
 ### Edge AI
 <!-- TOPIC_EDGE_AI_START -->
 - [AI at the Edge: The Real State of Play - OEMs](../posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems/post.md) (2026-02-03) — Part 2: OEMs, Lifecycles, and the CTO's Actual Problem
+- [AI at the Edge: The Real State of Play - OSes](../posts/ai-at-the-edge-the-real-state-of-play-oses/post.md) (2026-01-30) — Part 1: Client Operating Systems
 <!-- TOPIC_EDGE_AI_END -->
 
 ### Ecosystem Analysis
@@ -43,6 +45,7 @@ A complete index of all mirrored posts.
 - [Android OTA at the Edge – CTO Edition](../posts/android-ota-at-the-edge-cto-edition/post.md) (2026-02-09)
 - [Android OTA at the Edge – OEM Edition](../posts/android-ota-at-the-edge-oem-edition/post.md) (2026-02-09)
 - [AI at the Edge: The Real State of Play - OEMs](../posts/2026-02-03-ai-at-the-edge-real-state-of-play-oems/post.md) (2026-02-03)
+- [AI at the Edge: The Real State of Play - OSes](../posts/ai-at-the-edge-the-real-state-of-play-oses/post.md) (2026-01-30)
 <!-- SOURCE_SUBSTACK_END -->
 
 ### Esper Blog (Corporate)
