@@ -1,0 +1,34 @@
+{
+  "slug": "ai-at-the-edge-the-real-state-of-play-silicon-strategy",
+  "title": "AI at the Edge: Silicon Strategy",
+  "series": "AI at the Edge: The Real State of Play",
+  "seriesPart": 4,
+  "author": "Keith Szot",
+  "date": "2026-02-20",
+  "canonicalUrl": "https://keithszot.substack.com/p/ai-at-the-edge-the-real-state-of-89f",
+  "description": "An examination of how processor architectures and silicon vendors influence edge AI deployments, including GPUs, NPUs, DSPs, and the toolchains that enable hardware acceleration.",
+  "tags": [
+    "Edge AI",
+    "AI Infrastructure",
+    "Semiconductors",
+    "NVIDIA",
+    "Intel",
+    "Qualcomm",
+    "MediaTek",
+    "Apple Silicon"
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Edge Computing",
+    "Semiconductors"
+  ],
+  "keywords": [
+    "edge AI silicon",
+    "AI hardware accelerators",
+    "GPU NPU DSP",
+    "AI inference hardware",
+    "edge AI processors"
+  ],
+  "status": "published",
+  "readingTimeMinutes": 9
+}
